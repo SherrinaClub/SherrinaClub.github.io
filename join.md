@@ -1,8 +1,8 @@
 ﻿
 ---
 
-layout: page
-title: 加入我们
+layout:page
+title:加入我们
 
 ---
 
