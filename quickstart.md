@@ -3,7 +3,7 @@ layout: page
 title: quickstart
 ---
 
-#开始你的github教程
+# 开始你的github教程
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>

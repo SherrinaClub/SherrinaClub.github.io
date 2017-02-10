@@ -43,21 +43,21 @@ nav:
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
-  加入我们:
+  招募:
     - '/join/'
   Quick-start:
     - '/quickstart/'
   About:          
     - '/about/'
   Github Project: 
-    - 'http://sherrinafanclub.github.com/'
+    - 'https://www.github.com/sherrinafanclub'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/img/main.jpg
+  image: /public/logo.jpg
   caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
 # Puglins
