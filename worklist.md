@@ -1,34 +1,35 @@
- ---
+---
+layout: page
+title: 汉化项目
+---
+# 周刊
 
-layout:page
-title:������Ŀ
-
- ---
-# �ܿ�
-||��Ʒ��|����|״̬|���|
+||作品名|作者|状态|简介|
 | :--: | :--: | :--: | :--: | :-- | 
-|[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡|
-|[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡||[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡||[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡|
+|[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！|
+|[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！||[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！||[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！|
 
  ---
-# �¿�
-||��Ʒ��|����|״̬|���|
+# 月刊
+||作品名|作者|状态|简介|
 | :--: | :--: | :--: | :--: | :-- | 
-|[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡|
-|[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡||[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡||[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡|
+|[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！|
+|[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！||[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！||[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！|
 
  ---
-# ����������
-||��Ʒ��|����|״̬|���|
+# 不定期连载
+||作品名|作者|状态|简介|
 | :--: | :--: | :--: | :--: | :-- | 
-|[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡|
-|[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡||[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡||[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡|
+|[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！|
+|[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！|
+|[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！|
+|[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！|
 
  ---
-# �����
-||��Ʒ��|����|״̬|���|
+# 已完结
+||作品名|作者|状态|简介|
 | :--: | :--: | :--: | :--: | :-- | 
-|[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡|
-|[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡||[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡||[![�ⲻ׼�İ�����ͬѧ](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|���ⲻ׼�İ�����ͬѧ��|ˮ������|������|�ⲻ׼�İ�����ͬѧ���� �������İ�����ͬѧ�Ǹ���ССһֻ�����������������ⲻ׼����Ů���ӣ� ʵ����������������ʡ��ʽϲ�磡|
+|[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！|
+|[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！||[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！||[![测不准的阿波连同学](http://p1.bpimg.com/567571/e0f15098574679e6.jpg)](http://manhua.dmzj.com/cebuzhundeaboliantongxue/)|《测不准的阿波连同学》|水あさと|连载中|测不准的阿波连同学漫画 ，邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！|
 
  ---
