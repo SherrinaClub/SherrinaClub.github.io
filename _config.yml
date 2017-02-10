@@ -4,7 +4,7 @@ tagline: '我能吞下玻璃而不伤身体'
 description: ''
 baseurl: ""
 url: http://sherrinafanclub.github.io
-#logo: '/public/logo.png'
+logo: '/public/logo.png'
 
 # Site configurations
 gems:
@@ -16,7 +16,7 @@ excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
   sass_dir: _scss    
-paginate: 5
+paginate: 10
 paginate_path: '/blog/page:num'
 permalink: pretty
 
@@ -39,13 +39,20 @@ author:
 nav:
   Home:           
     - '/'
+  Work List:
+    - '/worklist/'
   Blog:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+#    - { Categories: '/blog/categories/' }
+#    - { Tags: '/blog/tags/' }
   招募:
-    - '/join/'
-  Quick-start:
+    - '/recruitment/'
+    - { dalao快速通道: '/old_driver'}
+  通用教程:
+    - '/intro/'
+    - { 翻译: '/translator/'}
+    - { 嵌字: '/typesetter/'}
+  弹射起步:
     - '/quickstart/'
   About:          
     - '/about/'
