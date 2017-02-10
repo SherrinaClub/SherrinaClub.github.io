@@ -1,6 +1,6 @@
 ---
 layout: page
-title: quickstart
+title: 加入我们
 ---
 呀嘿~各位喵帕斯！
 这边是雪莉娜汉化组，又见面啦！
