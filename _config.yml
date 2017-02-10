@@ -47,7 +47,7 @@ nav:
 #    - { Tags: '/blog/tags/' }
   招募:
     - '/recruitment/'
-    - { dalao快速通道: '/old_driver'}
+    - { 特殊招募: '/functional/'}
   通用教程:
     - '/intro/'
     - { 翻译: '/translator/'}
