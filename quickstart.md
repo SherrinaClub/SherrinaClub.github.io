@@ -1,6 +1,6 @@
 ---
 layout: page
-title: quickstart
+title: 弹射起步
 ---
 
 # 开始你的github教程
@@ -11,6 +11,7 @@ title: quickstart
 
 不要被英文吓到，放轻松就好。
 </p>
+
 # 什么是git
 git是一种版本管理工具。
 
