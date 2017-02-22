@@ -11,6 +11,7 @@ title: 汉化项目
 		<th width="300">作品名</th> 
 		<td width="600">《测不准的阿波连同学》</td>
 	</tr>
+	<tr>
 		<th>作者</th>
 		<td>水あさと</td>
 	</tr>
