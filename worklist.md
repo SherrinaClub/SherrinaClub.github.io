@@ -7,8 +7,8 @@ title: 汉化项目
 
 <table width="900"> 
 	<tr>
-		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/cebuzhundeaboliantongxue/"><img src="http://p1.bpimg.com/567571/e0f15098574679e6.jpg"</th> 
-		<th width="150">作品名</th> 
+		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/cebuzhundeaboliantongxue/"><img src="http://p1.bpimg.com/567571/e0f15098574679e6.jpg"></th> 
+		<th width="200">作品名</th> 
 		<td width="600">《测不准的阿波连同学》</td>
 	<tr>
 		<th>作者</th>
