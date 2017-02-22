@@ -22,38 +22,40 @@ title: 汉化项目
 	<tr>
 		<td colspan="3"></td>
 	<tr>
-		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/jijubukesiyiyanjioubu"><img src="http://i1.piimg.com/567571/b70e1d9bfd85bb06.jpg"</td> 
-		<th width="100">作品名</td> 
+		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/jijubukesiyiyanjioubu"><img src="http://i1.piimg.com/567571/b70e1d9bfd85bb06.jpg"></td> 
+		<th width="100">作品名</th> 
 		<td width="600">《聚集！不可思议研究部》</td>
 	<tr>
-		<th>作者</td>
+		<th>作者</th>
 		<td>安部真弘</td>
 	</tr>
 	<tr>
-		<th>状态</td>
+		<th>状态</th>
 		<td>连载中</td>
 	</tr>
 	<tr>
-		<th>简介</td>
+		<th>简介</th>
 		<td>南湘高中的五领大祐，因为不知道参加什么社团而苦恼中。 有一天被老师拜托把东西搬到仓库、然而在那间仓库…… 『侵略！乌贼娘』作者·安部真弘的新作，连载开始！</td>
 	<tr>
 		<td colspan="3"></td>
 	</tr>
 	<tr>
-		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/shiliangqiu"><img src="http://i1.piimg.com/567571/b4b25c36f1c39f7c.jpg"</td> 
-		<th width="100">作品名</td> 
+		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/shiliangqiu"><img src="http://i1.piimg.com/567571/b4b25c36f1c39f7c.jpg"></td> 
+		<th width="100">作品名</th> 
 		<td width="600">《VECTOR BALL》</td>
 	<tr>
-		<th>作者</td>
+		<th>作者</th>
 		<td>雷句诚</td>
 	</tr>
 	<tr>
-		<th>状态</td>
+		<th>状态</th>
 		<td>连载中</td>
 	</tr>
 	<tr>
-		<th>简介</td>
+		<th>简介</th>
 		<td>原本快乐的学校却变成了恐怖之地！不断发生着奇怪事件，让学生们毛骨悚然，甚至有人声称自己被身高两米以上、裂口可以看到很多牙、双手持有超过六把大型匕首、腿像木桩一样粗的男人袭击。米炊决定终结这一切，他要用自己的力量让学校变回快乐生活的地方！然而看见袭击学生的怪人，他跪了。</td>
+	</tr>
+</table>
 
 ---
 
