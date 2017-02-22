@@ -10,22 +10,17 @@ title: 汉化项目
 		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/cebuzhundeaboliantongxue/"><img src="http://p1.bpimg.com/567571/e0f15098574679e6.jpg">
 		<th width="300">作品名</th> 
 		<td width="600">《测不准的阿波连同学》</td>
-	</tr>
 	<tr>
 		<th>作者</th>
 		<td>水あさと</td>
-	</tr>
 	<tr>
 		<th>状态</th>
 		<td>连载中</td>
-	</tr>
 	<tr>
 		<th>简介</th>
 		<td>邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！</td>
-	</tr>
 	<tr>
 		<td colspan="3"></td>
-	</tr>
 	<tr>
 		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/jijubukesiyiyanjioubu"><img src="http://i1.piimg.com/567571/b70e1d9bfd85bb06.jpg"</td> 
 		<th width="100">作品名</td> 
