@@ -1,10 +1,22 @@
-.hero {
-  text-align: center;
-  font-size: 0.75rem;
-  img {
-    height: auto;
-    width: auto;
-    display: inline;
-    margin-top: -1rem;
-  }
+.MangaBlock {
+    margin: 20px;
+    margin-top: 70px;
+    padding-bottom: 200px;
+    text-align: center;
+    font-size: 0.75rem;
+    img {
+        height: auto;
+        width: auto;
+        display: inline;
+        margin-top: -1rem;
+    }
+    description {
+    display: inline-block;
+	text-align: left;
+	font-family: helvetica;
+	padding-top: 10px;
+	font-size: 25px;
+	line-height: 1.5em;
+	}
 }
+

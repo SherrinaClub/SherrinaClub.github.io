@@ -2,9 +2,15 @@
 layout: default
 title: Home
 ---
-
-<div class="hero">
-	<a href="http://manhua.dmzj.com/cebuzhundeaboliantongxue/" target="_blank">
-		<img src="http://i1.piimg.com/567571/a103a1ef4e8d7fe6.jpg" />
+{% for manga in site.gallery %}
+{% assign link = manga.[1]['link'] %}
+{% assign image = manga[1]['image'] %}
+{% assign description = manga[1]['description'] %}
+<div class="MangaBlock">
+	<a href="{{ link  }}" target="_blank">
+		<img src="{{ image }}" />
 	</a>
+	<description>{{ description }}</description>
 </div>
+<hr>
+{% endfor %}

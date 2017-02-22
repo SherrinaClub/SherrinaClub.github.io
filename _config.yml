@@ -63,10 +63,28 @@ nav:
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
-hero:
-  image: /public/logo.jpg
-  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
-
+# 主页上展示的漫画信息
+gallery:
+  manga0:
+    title: 阿波连
+    image: http://i1.piimg.com/567571/a103a1ef4e8d7fe6.jpg
+    link: http://manhua.dmzj.com/cebuzhundeaboliantongxue/
+    description: 邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！
+  manga1:
+    title: 捡到了只小猫
+    image: http://p1.bpimg.com/567571/7f4dc498fa7afe9a.jpg
+    link: http://manhua.dmzj.com/jiandaolezhixiaomao/
+    description: 独自生活的大学生·猫宫敦生，被突然来访的姐姐所拜托，要照顾外甥女重音两个星期……。 一头雾水的敦生和冷淡的重音，相处很僵硬的两个人，他们的同居生活会向何处发展——？ 收录了在pixiv大受好评的4话再加上新创作的番外篇，よはち老师的第一本单行本!!
+  manga2:
+    title: 为美好的世界献上日常
+    image: http://i1.piimg.com/567571/2620e08b362ecadc.jpg
+    link: http://manhua.dmzj.com/weimeihaodeshijiexianshangrichang
+    description: 从未诉说过的和真·阿库娅·惠惠·达克妮斯的日常在这里可以读到！？Sneaker文库原作『为美好的世界献上祝福！』的外传闪亮登场！因为事故死掉的家里蹲少年·和真受到废柴女神的引导，为了打倒魔王而来到了异世界，并开始埋头于莫名其妙的工作之中。这里记录了他们不为人知的、有汗有泪的、主要是大爆笑的日常生活。
+  manga3:
+    title: 邻家的吸血鬼小妹
+    image: http://p1.bqimg.com/567571/7d6dd503688b84e3.jpg
+    link: http://manhua.dmzj.com/linjiadexixueguixiaomei
+    description: 这只吸血鬼从各种各样的意义来讲都是家里蹲～
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
