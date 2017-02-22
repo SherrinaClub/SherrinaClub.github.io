@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: 汉化项目
 ---
