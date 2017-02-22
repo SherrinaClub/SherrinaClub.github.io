@@ -7,7 +7,7 @@ title: 汉化项目
 
 <table width="900"> 
 	<tr>
-		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/cebuzhundeaboliantongxue/"><img src="http://p1.bpimg.com/567571/e0f15098574679e6.jpg">
+		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/cebuzhundeaboliantongxue/"><img src="http://p1.bpimg.com/567571/e0f15098574679e6.jpg"></th>
 		<th width="300">作品名</th> 
 		<td width="600">《测不准的阿波连同学》</td>
 	<tr>
@@ -22,7 +22,7 @@ title: 汉化项目
 	<tr>
 		<td colspan="3"></td>
 	<tr>
-		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/jijubukesiyiyanjioubu"><img src="http://i1.piimg.com/567571/b70e1d9bfd85bb06.jpg"></td> 
+		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/jijubukesiyiyanjioubu"><img src="http://i1.piimg.com/567571/b70e1d9bfd85bb06.jpg"></th> 
 		<th width="100">作品名</th> 
 		<td width="600">《聚集！不可思议研究部》</td>
 	<tr>
@@ -40,7 +40,7 @@ title: 汉化项目
 		<td colspan="3"></td>
 	</tr>
 	<tr>
-		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/shiliangqiu"><img src="http://i1.piimg.com/567571/b4b25c36f1c39f7c.jpg"></td> 
+		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/shiliangqiu"><img src="http://i1.piimg.com/567571/b4b25c36f1c39f7c.jpg"></th>
 		<th width="100">作品名</th> 
 		<td width="600">《VECTOR BALL》</td>
 	<tr>
@@ -55,7 +55,7 @@ title: 汉化项目
 		<th>简介</th>
 		<td>原本快乐的学校却变成了恐怖之地！不断发生着奇怪事件，让学生们毛骨悚然，甚至有人声称自己被身高两米以上、裂口可以看到很多牙、双手持有超过六把大型匕首、腿像木桩一样粗的男人袭击。米炊决定终结这一切，他要用自己的力量让学校变回快乐生活的地方！然而看见袭击学生的怪人，他跪了。</td>
 	</tr>
-</table>
+
 
 ---
 
