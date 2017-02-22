@@ -40,7 +40,7 @@ nav:
   Home:           
     - '/'
   Work List:
-    - '/worklist/'
+    - 'https://github.com/SherrinaFanClub/SherrinaFanClub.github.io/blob/master/worklist.md'
   Blog:           
     - '/blog/'
 #    - { Categories: '/blog/categories/' }
