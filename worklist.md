@@ -405,7 +405,7 @@ title: 汉化项目
 		<td colspan="3"></td>
 	</tr>	
 	<tr>
-		<th width="1300" rowspan="4"><a href="http://ww1.sinaimg.cn/large/0060lm7Tgy1fd7ldh19whj30k60sjk8p.jpg"></a></th> 
+		<th width="1300" rowspan="4"><a href="http://i4.pixiv.net/c/600x600/img-master/img/2016/12/24/19/21/36/60527195_p0_master1200.jpg"></a></th> 
 		<th width="500">作品名</th> 
 		<td width="600">《超高抖M意识提督的日常》</td>
 	</tr>
