@@ -365,71 +365,82 @@ title: 汉化项目
 
 <table width="900"> 
 	<tr>
-		<th width="200" rowspan="4"><a href="http://buka.cn/detail/204685"><img src="http://p1.bpimg.com/567571/e0f15098574679e6.jpg"</td> 
-		<th width="100">作品名</td> 
+		<th width="1300" rowspan="4"><a href="http://buka.cn/detail/204685"><img src="http://p1.bpimg.com/567571/e0f15098574679e6.jpg"></a></th> 
+		<th width="500">作品名</th> 
 		<td width="600">《关于完全听不懂老公在说什么的事》</td>
+	</tr>
 	<tr>
-		<th>作者</td>
+		<th>作者</th>
 		<td>クール教信者</td>
 	</tr>
 	<tr>
-		<th>状态</td>
+		<th>状态</th>
 		<td>连载中</td>
 	</tr>
 	<tr>
-		<th>简介</td>
+		<th>简介</th>
 		<td>有个宅男老公也许也是一件挺有趣的事吧？热心于工作的OL“薰”是个普通人，而她的老公则是沉迷于某大型网路留言版的阿宅，故事就围绕着这样的2人的夫妻日常展开。</td>
+	</tr>
 	<tr>
 		<td colspan="3"></td>
-	</tr>	<tr>
-		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/jiandaolezhixiaomao"><img src="http://i1.piimg.com/567571/3f6366d0d1e9281a.jpg"</td> 
-		<th width="100">作品名</td> 
-		<td width="600">《捡到了只小猫》</td>
+	</tr>	
 	<tr>
-		<th>作者</td>
+		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/jiandaolezhixiaomao"><img src="http://i1.piimg.com/567571/3f6366d0d1e9281a.jpg"></a></th> 
+		<th width="100">作品名</th> 
+		<td width="600">《捡到了只小猫》</td>
+	</tr>
+	<tr>
+		<th>作者</th>
 		<td>よはち</td>
 	</tr>
 	<tr>
-		<th>状态</td>
+		<th>状态</th>
 		<td>连载中</td>
 	</tr>
 	<tr>
-		<th>简介</td>
+		<th>简介</th>
 		<td>独自生活的大学生·猫宫敦生，被突然来访的姐姐所拜托，要照顾外甥女重音两个星期……。一头雾水的敦生和冷淡的重音，相处很僵硬的两个人，他们的同居生活会向何处发展——？</td>
+	</tr>
 	<tr>
 		<td colspan="3"></td>
-	</tr>	<tr>
-		<th width="200" rowspan="4"><a href="http://buka.cn/detail/212659"><img src="http://i1.piimg.com/567571/a1adba36c6b39f71.jpg"</td> 
-		<th width="100">作品名</td> 
-		<td width="600">《超高抖M意识提督的日常》</td>
+	</tr>	
 	<tr>
-		<th>作者</td>
+		<th width="1300" rowspan="4"><a href="http://buka.cn/detail/212659"><img src="http://i1.piimg.com/567571/a1adba36c6b39f71.jpg"></a></th> 
+		<th width="500">作品名</th> 
+		<td width="600">《超高抖M意识提督的日常》</td>
+	</tr>
+	<tr>
+		<th>作者</th>
 		<td>山本アリフレッド</td>
 	</tr>
 	<tr>
-		<th>状态</td>
+		<th>状态</th>
 		<td>连载中</td>
 	</tr>
 	<tr>
-		<th>简介</td>
-		<td>镇守府出现了有着高昂虐意的最强抖M提督？！他身背四格探照灯游走在夜晚的海面，潜入深海寻求水压与窒息的崭新快感，时刻准备品尝比睿和矶风的合（sheng）作（hua）料（wu）理（qi）……同时，他又背负起被称为不幸级的扶桑，关怀着蔑视自己的不知火，微笑着面对有着恐怖食量的大和……此良提，实乃我等之楷模……！！</td>
+		<th>简介</th>
+		<td>镇守府出现了有着高昂虐意的最强抖M提督？！他身背四格探照灯游走在夜晚的海面，潜入深海寻求水压与窒息的崭新快感，时刻准备品尝比睿和矶风的合（sheng）作（hua）料（wu）理（qi）……同时，他又背负起被称为不幸级的扶桑，关怀着蔑视自己的不知火，微笑着面对有着恐怖食量的大和……此良提，实乃我等楷模……！！</td>
+	</tr>
 	<tr>
 		<td colspan="3"></td>
-	</tr>	<tr>
-		<th width="200" rowspan="4"><a href="http://manhua.dmzj.com/baishengnvyuheimushi"><img src="http://i1.piimg.com/567571/4d410e59d4dc8888.jpg"</td> 
-		<th width="100">作品名</td> 
-		<td width="600">《白圣女与黑牧师》</td>
+	</tr>	
 	<tr>
-		<th>作者</td>
+		<th width="1300" rowspan="4"><a href="http://manhua.dmzj.com/baishengnvyuheimushi"><img src="http://i1.piimg.com/567571/4d410e59d4dc8888.jpg"></a></th> 
+		<th width="500">作品名</th> 
+		<td width="600">《白圣女与黑牧师》</td>
+	</tr>
+	<tr>
+		<th>作者</th>
 		<td>和武はざの</td>
 	</tr>
 	<tr>
-		<th>状态</td>
+		<th>状态</th>
 		<td>连载中</td>
 	</tr>
 	<tr>
-		<th>简介</td>
+		<th>简介</th>
 		<td>为了照顾一个人什么也不做、无所事事的圣女·塞西莉娅，性格一板一眼的牧师·劳伦斯不得不时刻忙碌着…… 完全相反的两个人彼此尊敬着对方，之间偶尔也会产生不错的气氛……？ 投稿在pixiv上的，我行我素圣女×费力劳心牧师的同居纯爱喜剧！</td>
+	</tr>
 	<tr>
 		<td colspan="3"></td>
 	</tr>
