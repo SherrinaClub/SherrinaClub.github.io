@@ -365,7 +365,7 @@ title: 汉化项目
 
 <table width="900"> 
 	<tr>
-		<th width="1300" rowspan="4"><a href="http://buka.cn/detail/204685"><img src="http://p1.bpimg.com/567571/e0f15098574679e6.jpg"></a></th> 
+		<th width="1300" rowspan="4"><a href="http://buka.cn/detail/204685"><img src="http://p1.bpimg.com/1949/74f438a634734e72.jpg"></a></th> 
 		<th width="500">作品名</th> 
 		<td width="600">《关于完全听不懂老公在说什么的事》</td>
 	</tr>
@@ -405,7 +405,7 @@ title: 汉化项目
 		<td colspan="3"></td>
 	</tr>	
 	<tr>
-		<th width="1300" rowspan="4"><a href="http://buka.cn/detail/212659"><img src="http://i1.piimg.com/567571/a1adba36c6b39f71.jpg"></a></th> 
+		<th width="1300" rowspan="4"><a href="http://p1.bpimg.com/1949/248909e0ff9897ca.jpg"></a></th> 
 		<th width="500">作品名</th> 
 		<td width="600">《超高抖M意识提督的日常》</td>
 	</tr>
