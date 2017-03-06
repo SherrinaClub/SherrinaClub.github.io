@@ -85,6 +85,16 @@ gallery:
     image: http://p1.bqimg.com/567571/7d6dd503688b84e3.jpg
     link: http://manhua.dmzj.com/linjiadexixueguixiaomei
     description: 这只吸血鬼从各种各样的意义来讲都是家里蹲～
+  manga4:
+    title: 聚集！不可思议研究部
+    image: http://i1.piimg.com/567571/b70e1d9bfd85bb06.jpg
+    link: http://manhua.dmzj.com/shiliangqiu
+    description: 南湘高中的五领大祐，因为不知道参加什么社团而苦恼中。 有一天被老师拜托把东西搬到仓库、然而在那间仓库…… 『侵略！乌贼娘』作者·安部真弘的新作，连载开始！
+  manga5:
+    title: VECTOR BALL
+    image: http://i1.piimg.com/567571/b4b25c36f1c39f7c.jpg
+    link: http://manhua.dmzj.com/linjiadexixueguixiaomei
+    description: 原本快乐的学校却变成了恐怖之地！不断发生着奇怪事件，让学生们毛骨悚然，甚至有人声称自己被身高两米以上、裂口可以看到很多牙、双手持有超过六把大型匕首、腿像木桩一样粗的男人袭击。米炊决定终结这一切，他要用自己的力量让学校变回快乐生活的地方！然而看见袭击学生的怪人，他跪了。
 # Puglins
 mathjax: false # whether support mathjax
 #google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
