@@ -3,14 +3,13 @@ layout: default
 title: Home
 ---
 {% for manga in site.gallery %}
-{% assign link = manga.[1]['link'] %}
+{% assign title = manga[1]['title'] %}
+{% assign link = manga[1]['link'] %}
 {% assign image = manga[1]['image'] %}
-{% assign description = manga[1]['description'] %}
 <div class="MangaBlock">
+	<a href="{{ link  }}"><h2>{{ title }}</h2></a>
 	<a href="{{ link  }}" target="_blank">
 		<img src="{{ image }}" />
 	</a>
-	<description>{{ description }}</description>
 </div>
-<hr>
 {% endfor %}
