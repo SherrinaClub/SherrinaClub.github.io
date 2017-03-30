@@ -2,14 +2,37 @@
 layout: default
 title: Home
 ---
-{% for manga in site.gallery %}
-{% assign title = manga[1]['title'] %}
-{% assign link = manga[1]['link'] %}
-{% assign image = manga[1]['image'] %}
-<div class="MangaBlock">
-	<a href="{{ link  }}"><h2>{{ title }}</h2></a>
-	<a href="{{ link  }}" target="_blank">
-		<img src="{{ image }}" />
-	</a>
+<div class="ui two column grid">
+    {% for manga in site.gallery %}
+    {% assign title = manga[1]['title'] %}
+    {% assign link = manga[1]['link'] %}
+    {% assign image = manga[1]['image'] %}
+    {% assign author = manga[1]['author'] %}
+    {% assign description = manga[1]['description'] %}
+    <div class="colum">
+        <div class="ui link card">
+            <a class="image" href="{{ link }}" target="_blank">
+                <img src="{{ image }}">
+            </a>
+            <div class="content">
+                <a class="header" href="{{ link }}" target="_blank">{{ title }}</a>
+                <div class="meta">
+                    <a>{{ author }}</a>
+                </div>
+                <div class="description">
+                    {{ description }}
+                </div>
+            </div>
+            <div class="extra content">
+                <span class="right floated">
+        最近更新
+      </span>
+                <span>
+        <i class="user icon"></i>
+        订阅
+      </span>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
 </div>
-{% endfor %}
