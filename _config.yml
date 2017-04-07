@@ -20,7 +20,7 @@ paginate: 10
 paginate_path: '/blog/page:num'
 permalink: pretty
 
-version: 1.0.1
+version: 1.1.0
 
 # About/contact
 author:
@@ -45,13 +45,13 @@ nav:
     - '/blog/'
 #    - { Categories: '/blog/categories/' }
 #    - { Tags: '/blog/tags/' }
+  介绍:
+    - '/intro/'
   招募:
     - '/recruitment/'
-    - { 特殊招募: '/functional/'}
-  通用教程:
-    - '/intro/'
     - { 翻译: '/translator/'}
     - { 嵌字: '/typesetter/'}
+#   - { 特殊招募: '/functional/'}
   弹射起步:
     - '/quickstart/'
   About:          
