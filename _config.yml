@@ -65,41 +65,41 @@ category_page: '/blog/categories/'
 
 # 主页上展示的漫画信息
 gallery:
-  manga0:
+  39709: 
     title: 测不准的阿波连同学
     author: 水あさと
     image: http://i1.piimg.com/567571/a103a1ef4e8d7fe6.jpg
     link: http://manhua.dmzj.com/cebuzhundeaboliantongxue/
     description: 邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！
-  manga1:
+  39452:
     title: 为美好的世界献上日常
     author: 晓なつめ×染宫すずめ
     image: http://i1.piimg.com/567571/2620e08b362ecadc.jpg
     link: http://manhua.dmzj.com/weimeihaodeshijiexianshangrichang
     description: 从未诉说过的和真·阿库娅·惠惠·达克妮斯的日常在这里可以读到！？Sneaker文库原作『为美好的世界献上祝福！』的外传闪亮登场！因为事故死掉的家里蹲少年·和真受到废柴女神的引导，为了打倒魔王而来到了异世界，并开始埋头于莫名其妙的工作之中。这里记录了他们不为人知的、有汗有泪的、主要是大爆笑的日常生活。
-  manga2:
+  39415:
     title: 捡到了只小猫
     author: よはち
     image: http://p1.bpimg.com/567571/7f4dc498fa7afe9a.jpg
     link: http://manhua.dmzj.com/jiandaolezhixiaomao/
     description: 独自生活的大学生·猫宫敦生，被突然来访的姐姐所拜托，要照顾外甥女重音两个星期……。 一头雾水的敦生和冷淡的重音，相处很僵硬的两个人，他们的同居生活会向何处发展——？ 收录了在pixiv大受好评的4话再加上新创作的番外篇，よはち老师的第一本单行本!!
-  manga3:
+  21941:
     title: 邻家的吸血鬼小妹
     author: 甘党
     image: http://p1.bqimg.com/567571/7d6dd503688b84e3.jpg
     link: http://manhua.dmzj.com/linjiadexixueguixiaomei
     description: 这只吸血鬼从各种各样的意义来讲都是家里蹲～
-  manga4:
+  38887:
     title: 聚集！不可思议研究部
     author: 安部真弘
     image: http://i1.piimg.com/567571/b70e1d9bfd85bb06.jpg
-    link: http://manhua.dmzj.com/shiliangqiu
+    link: http://manhua.dmzj.com/jijubukesiyiyanjioubu
     description: 南湘高中的五领大祐，因为不知道参加什么社团而苦恼中。 有一天被老师拜托把东西搬到仓库、然而在那间仓库…… 『侵略！乌贼娘』作者·安部真弘的新作，连载开始！
-  manga5:
+  33405:
     title: VECTOR BALL
     author: 雷句诚
     image: http://i1.piimg.com/567571/b4b25c36f1c39f7c.jpg
-    link: http://manhua.dmzj.com/linjiadexixueguixiaomei
+    link: http://manhua.dmzj.com/shiliangqiu
     description: 原本快乐的学校却变成了恐怖之地！不断发生着奇怪事件，让学生们毛骨悚然，甚至有人声称自己被身高两米以上、裂口可以看到很多牙、双手持有超过六把大型匕首、腿像木桩一样粗的男人袭击。米炊决定终结这一切，他要用自己的力量让学校变回快乐生活的地方！然而看见袭击学生的怪人，他跪了。
 # Puglins
 mathjax: false # whether support mathjax
