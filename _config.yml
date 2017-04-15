@@ -4,7 +4,7 @@ tagline: '我能吞下玻璃而不伤身体'
 description: ''
 baseurl: ""
 url: http://sherrinafanclub.github.io
-logo: '/public/logo.png'
+logo: '/public/logo.jpg'
 
 # Site configurations
 gems:
