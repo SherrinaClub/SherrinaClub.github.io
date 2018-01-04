@@ -64,43 +64,71 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 # 主页上展示的漫画信息
+
 gallery:
-  39709: 
+  
+
+  #39452:
+  #  title: 为美好的世界献上日常
+  #  author: 晓なつめ×染宫すずめ
+  #  image: http://i2.muimg.com/567571/7f3a8bf0f25a790e.jpg
+  #  link: http://manhua.dmzj.com/weimeihaodeshijiexianshangrichang
+  #  description: 从未诉说过的和真·阿库娅·惠惠·达克妮斯的日常在这里可以读到！？Sneaker文库原作『为美好的世界献上祝福！』的外传闪亮登场！因为事故死掉的家里蹲少年·和真受到废柴女神的引导，为了打倒魔王而来到了异世界，并开始埋头于莫名其妙的工作之中。这里记录了他们不为人知的、有汗有泪的、主要是大爆笑的日常生活。
+  
+  #21941:
+  #  title: 邻家的吸血鬼小妹
+  #  author: 甘党
+  #  image: http://p1.bqimg.com/567571/7d6dd503688b84e3.jpg
+  #  link: http://manhua.dmzj.com/linjiadexixueguixiaomei
+  #  description: 这只吸血鬼从各种各样的意义来讲都是家里蹲～
+  #38887:
+  #  title: 聚集！不可思议研究部
+  #  author: 安部真弘
+  #  image: http://i1.piimg.com/567571/b70e1d9bfd85bb06.jpg
+  #  link: http://manhua.dmzj.com/jijubukesiyiyanjioubu
+  #  description: 南湘高中的五领大祐，因为不知道参加什么社团而苦恼中。 有一天被老师拜托把东西搬到仓库、然而在那间仓库…… 『侵略！乌贼娘』作者·安部真弘的新作，连载开始！
+  #33405:
+  #  title: VECTOR BALL
+  #  author: 雷句诚
+  #  image: http://i1.piimg.com/567571/b4b25c36f1c39f7c.jpg
+  #  link: http://manhua.dmzj.com/shiliangqiu
+  #  description: 原本快乐的学校却变成了恐怖之地！不断发生着奇怪事件，让学生们毛骨悚然，甚至有人声称自己被身高两米以上、裂口可以看到很多牙、双手持有超过六把大型匕首、腿像木桩一样粗的男人袭击。米炊决定终结这一切，他要用自己的力量让学校变回快乐生活的地方！然而看见袭击学生的怪人，他跪了。
+  00001:
+    title: 别当欧尼酱了
+    author: ねことうふ
+    image: https://i.loli.net/2018/01/04/5a4df13c5b1b3.jpg
+    link: http://manhua.dmzj.com/biedangounijiangle
+    description: 一觉醒来，家里蹲变成了萌萝莉？！ 这究竟是道德的沦丧，还是人性的泯灭？ 《深夜雀食堂》《六驱好朋友》作者·ねことうふ老师的P站新作！
+    subscribe: 103k
+
+  00002: 
     title: 测不准的阿波连同学
     author: 水あさと
-    image: http://i1.piimg.com/567571/a103a1ef4e8d7fe6.jpg
+    image: https://i.loli.net/2018/01/04/5a4df13b85159.jpg
     link: http://manhua.dmzj.com/cebuzhundeaboliantongxue/
     description: 邻座的阿波连同学是个「小小一只」「安静」不过「测不准」的女孩子？ 实力派作家所创作的省电式喜剧！
-  39452:
-    title: 为美好的世界献上日常
-    author: 晓なつめ×染宫すずめ
-    image: http://i2.muimg.com/567571/7f3a8bf0f25a790e.jpg
-    link: http://manhua.dmzj.com/weimeihaodeshijiexianshangrichang
-    description: 从未诉说过的和真·阿库娅·惠惠·达克妮斯的日常在这里可以读到！？Sneaker文库原作『为美好的世界献上祝福！』的外传闪亮登场！因为事故死掉的家里蹲少年·和真受到废柴女神的引导，为了打倒魔王而来到了异世界，并开始埋头于莫名其妙的工作之中。这里记录了他们不为人知的、有汗有泪的、主要是大爆笑的日常生活。
-  39415:
+    subscribe: 79k
+  #00003:
+  #  title: 不要欺负我、长瀞同学
+  #  author: 774 
+  #  image: https://i.loli.net/2018/01/04/5a4df13ca9b92.jpg
+  #  link: http://manhua.dmzj.com/buyaoqifuwochangjingtongxue
+  #  description: 可憎却可爱，痛苦又想要你在我身边，你心中的某种东西已经觉醒，S娇少女的故事。774老师上岸连载，是不是该把他踢回去呢
+  #  subscribe: 44k
+  00004:
+    title: 白圣女与黑牧师
+    author: 和武はざの
+    image: https://i.loli.net/2018/01/04/5a4df13b23a79.jpg
+    link: http://manhua.dmzj.com/baishengnvyuheimushi/
+    description: 为了照顾一个人什么也不做、无所事事的圣女·塞西莉娅，性格一板一眼的牧师·劳伦斯不得不时刻忙碌着…… 完全相反的两个人彼此尊敬着对方，之间偶尔也会产生不错的气氛……？ 投稿在pixiv上的，我行我素圣女×费力劳心牧师的同居纯爱喜剧！
+    subscribe: 45k
+  00005:
     title: 捡到了只小猫
-    author: よはち
-    image: http://p1.bpimg.com/567571/7f4dc498fa7afe9a.jpg
-    link: http://manhua.dmzj.com/jiandaolezhixiaomao/
+    author: よはち 
+    image: https://i.loli.net/2018/01/04/5a4df13c99fc5.jpg
+    link: http://manhua.dmzj.com/jiandaolezhixiaomao
     description: 独自生活的大学生·猫宫敦生，被突然来访的姐姐所拜托，要照顾外甥女重音两个星期……。 一头雾水的敦生和冷淡的重音，相处很僵硬的两个人，他们的同居生活会向何处发展——？ 收录了在pixiv大受好评的4话再加上新创作的番外篇，よはち老师的第一本单行本!!
-  21941:
-    title: 邻家的吸血鬼小妹
-    author: 甘党
-    image: http://p1.bqimg.com/567571/7d6dd503688b84e3.jpg
-    link: http://manhua.dmzj.com/linjiadexixueguixiaomei
-    description: 这只吸血鬼从各种各样的意义来讲都是家里蹲～
-  38887:
-    title: 聚集！不可思议研究部
-    author: 安部真弘
-    image: http://i1.piimg.com/567571/b70e1d9bfd85bb06.jpg
-    link: http://manhua.dmzj.com/jijubukesiyiyanjioubu
-    description: 南湘高中的五领大祐，因为不知道参加什么社团而苦恼中。 有一天被老师拜托把东西搬到仓库、然而在那间仓库…… 『侵略！乌贼娘』作者·安部真弘的新作，连载开始！
-  33405:
-    title: VECTOR BALL
-    author: 雷句诚
-    image: http://i1.piimg.com/567571/b4b25c36f1c39f7c.jpg
-    link: http://manhua.dmzj.com/shiliangqiu
-    description: 原本快乐的学校却变成了恐怖之地！不断发生着奇怪事件，让学生们毛骨悚然，甚至有人声称自己被身高两米以上、裂口可以看到很多牙、双手持有超过六把大型匕首、腿像木桩一样粗的男人袭击。米炊决定终结这一切，他要用自己的力量让学校变回快乐生活的地方！然而看见袭击学生的怪人，他跪了。
+    subscribe: 60k
 # Puglins
 mathjax: false # whether support mathjax
 #google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics

@@ -9,6 +9,7 @@ title: Home
     {% assign image = manga[1]['image'] %}
     {% assign author = manga[1]['author'] %}
     {% assign description = manga[1]['description'] %}
+    {% assign subscribe = manga[1]['subscribe'] %}
     <div class="colum">
         <div class="ui link card">
             <a class="image" href="{{ link }}" target="_blank">
@@ -25,11 +26,11 @@ title: Home
             </div>
             <div class="extra content">
                 <span class="right floated">
-        最近更新
+        
       </span>
                 <span>
-        <i class="user icon"></i>
-        订阅
+        <i class=""></i>
+        订阅 {{ subscribe }}
       </span>
             </div>
         </div>
